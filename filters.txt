@@ -1,4 +1,4 @@
-! Title: -filters
+! Title: filters
 ! Homepae: https://github.com/SUFahad007/ublock-filter/edit/main/filters.txt
 --------------------------------------------------------
 
