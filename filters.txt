@@ -1,11 +1,11 @@
 ! Title: filters
-! Homepae: https://github.com/SUFahad007/ublock-filter/edit/main/filters.txt
+! Homepage: https://github.com/SUFahad007/ublock-filter/edit/main/filters.txt
 --------------------------------------------------------
 
 
 
 ! olamovies site
-nw5.olamovies.onl##div.ny.noticee2.gridlove-box.container
+new5.olamovies.onl##div.ny.noticee2.gridlove-box.container
 new5.olamovies.onl###footer
 new5.olamovies.onl###cover
 new5.olamovies.onl###comments
