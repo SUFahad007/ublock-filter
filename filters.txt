@@ -4,8 +4,8 @@
 
 
 
-! Dec 15, 2025 https://new5.olamovies.onl
-new5.olamovies.onl##div.ny.noticee2.gridlove-box.container
+! olamovies site
+nw5.olamovies.onl##div.ny.noticee2.gridlove-box.container
 new5.olamovies.onl###footer
 new5.olamovies.onl###cover
 new5.olamovies.onl###comments
@@ -17,12 +17,14 @@ new5.olamovies.onl##.gridlove-prev-next-nav
 new5.olamovies.onl##.wpra-regular.wpra-plugin-container.wpra-reactions-wrap
 new5.olamovies.onl##.entry-tags
 new5.olamovies.onl##.w3-padding-right.w3-margin-top.w3-margin-bottom.w3-container
-new5.olamovies.onl##.dracula-processed.dracula-style-txt-border.dracula-effect-wobble.position-left.floating.dracula-toggle-wrap
 new5.olamovies.onl##.info-container-div
 new5.olamovies.onl##.action-links
 new5.olamovies.onl##.main-title
+new5.olamovies.onl##.position-left.floating.dracula-toggle-wrap
 
-! Dec 15, 2025 https://drive.olamovies.download
+! olamovies download page
 drive.olamovies.download##.space-y-3.flex-col.flex.z-50.sm\:left-6.left-3.bottom-16.fixed
 drive.olamovies.download##.dark\:border-blue-800.dark\:to-indigo-950.dark\:from-blue-950.mb-4.p-3.rounded-lg.border-blue-200.border.to-indigo-50.from-blue-50.bg-gradient-to-r.relative
 drive.olamovies.download##.z-50.-translate-x-1\/2.left-1\/2.bottom-4.fixed
+
+
