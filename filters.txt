@@ -1,30 +1,123 @@
 ! Title: filters
 ! Homepage: https://github.com/SUFahad007/ublock-filter/edit/main/filters.txt
 --------------------------------------------------------
-
-
-
 ! olamovies site
-new5.olamovies.onl##div.ny.noticee2.gridlove-box.container
-new5.olamovies.onl###footer
-new5.olamovies.onl###cover
-new5.olamovies.onl###comments
-new5.olamovies.onl##.gridlove-related
-new5.olamovies.onl##.gridlove_posts_widget.gridlove-box.widget
-new5.olamovies.onl##.widget_wpdiscuzwidgets.gridlove-box.widget
-new5.olamovies.onl##.AjaxSearchProLastSearchesWidget.gridlove-box.widget
-new5.olamovies.onl##.gridlove-prev-next-nav
-new5.olamovies.onl##.wpra-regular.wpra-plugin-container.wpra-reactions-wrap
-new5.olamovies.onl##.entry-tags
-new5.olamovies.onl##.w3-padding-right.w3-margin-top.w3-margin-bottom.w3-container
-new5.olamovies.onl##.info-container-div
-new5.olamovies.onl##.action-links
-new5.olamovies.onl##.main-title
-new5.olamovies.onl##.position-left.floating.dracula-toggle-wrap
+olamovies.onl##div.ny.noticee2.gridlove-box.container
+olamovies.onl###footer
+olamovies.onl###cover
+olamovies.onl###comments
+olamovies.onl##.gridlove-related
+olamovies.onl##.gridlove_posts_widget.gridlove-box.widget
+olamovies.onl##.widget_wpdiscuzwidgets.gridlove-box.widget
+olamovies.onl##.AjaxSearchProLastSearchesWidget.gridlove-box.widget
+olamovies.onl##.gridlove-prev-next-nav
+olamovies.onl##.wpra-regular.wpra-plugin-container.wpra-reactions-wrap
+olamovies.onl##.entry-tags
+olamovies.onl##.w3-padding-right.w3-margin-top.w3-margin-bottom.w3-container
+olamovies.onl##.info-container-div
+olamovies.onl##.action-links
+olamovies.onl##.main-title
+olamovies.onl##.position-left.floating.dracula-toggle-wrap
 
 ! olamovies download page
 drive.olamovies.download##.space-y-3.flex-col.flex.z-50.sm\:left-6.left-3.bottom-16.fixed
 drive.olamovies.download##.dark\:border-blue-800.dark\:to-indigo-950.dark\:from-blue-950.mb-4.p-3.rounded-lg.border-blue-200.border.to-indigo-50.from-blue-50.bg-gradient-to-r.relative
 drive.olamovies.download##.z-50.-translate-x-1\/2.left-1\/2.bottom-4.fixed
+
+! Dec 18, 2025 https://anikoto.tv
+anikoto.tv##.container.hotest
+anikoto.tv##.mb-4.bsharing
+anikoto.tv##.sidebar
+anikoto.tv##section.top-table
+anikoto.tv###schedule-block
+anikoto.tv##footer
+anikoto.tv##.fixed
+
+! Dec 19, 2025 https://nexdrive.pro
+nexdrive.pro##center
+nexdrive.pro##p:nth-of-type(2)
+nexdrive.pro##div.post-hover.post-inner:nth-of-type(7)
+nexdrive.pro##h4.fittexted_for_content_h4:nth-of-type(1)
+nexdrive.pro##div.post-hover.post-inner:nth-of-type(3)
+nexdrive.pro##h4.fittexted_for_content_h4:nth-of-type(2)
+nexdrive.pro##div.divdr:nth-of-type(6)
+nexdrive.pro##div.divdr:nth-of-type(8)
+nexdrive.pro##div.divdr:nth-of-type(9)
+nexdrive.pro##div.divdr:nth-of-type(2)
+nexdrive.pro##div.post-hover.post-inner:nth-of-type(5)
+nexdrive.pro##div.divdr:nth-of-type(4)
+||s.w.org/images/core/emoji/17.0.2/svg/26a1.svg$image
+nexdrive.pro##p:nth-of-type(4)
+nexdrive.pro##i.fa-download.fa
+
+
+! https://mlwa.xyz
+||i.ibb.co/HLg7TTqJ/header-ico.png$image
+||mlwa.xyz/get-profile-image$image
+mlwa.xyz##.nt-container
+mlwa.xyz##.iziToast-wrapper-topRight.iziToast-wrapper
+mlwa.xyz##.inbox-icon-cont
+mlwa.xyz##.dashboard-btn
+mlwa.xyz###chatIcon
+mlwa.xyz###systemInfoContainer
+mlwa.xyz##.tile-set-3.tile-container
+mlwa.xyz##.tile-set-2.tile-container
+mlwa.xyz##.video-overlay
+mlwa.xyz###mlwaPlansPopup
+mlwa.xyz##.welcome-text
+mlwa.xyz##.currency-box-cont
+mlwa.xyz##.bell-box-container
+mlwa.xyz##.right-half
+mlwa.xyz##.connecting-line
+mlwa.xyz##.left-half
+mlwa.xyz##.footer
+mlwa.xyz###particles-js
+mlwa.xyz##hr.split-line
+mlwa.xyz##.H4nkF4-pro-nav-icon
+mlwa.xyz##div.tile:nth-of-type(3)
+mlwa.xyz##div.tile:nth-of-type(4)
+mlwa.xyz##div.tile:nth-of-type(5)
+mlwa.xyz##div.tile:nth-of-type(6)
+mlwa.xyz##div.tile:nth-of-type(7)
+mlwa.xyz##div.tile:nth-of-type(8)
+mlwa.xyz##div.tile:nth-of-type(9)
+mlwa.xyz##div.tile:nth-of-type(10)
+mlwa.xyz##div.tile:nth-of-type(11)
+mlwa.xyz##div.tile:nth-of-type(12)
+mlwa.xyz##div.tile:nth-of-type(16)
+mlwa.xyz##div.tile:nth-of-type(15)
+mlwa.xyz##.status-badge-container
+mlwa.xyz##.widget-visible
+mlwa.xyz###dash-cont-39fj2
+
+! Dec 23, 2025 https://niraamjob.in
+niraamjob.in##.ast-article-inner.blog-layout-5.ast-post-format-
+niraamjob.in###secondary
+niraamjob.in###colophon
+niraamjob.in###masthead
+niraamjob.in###post-159
+niraamjob.in##.ast-pagination
+niraamjob.in##.ast-container--.ast-single-related-posts-container
+niraamjob.in###comments
+niraamjob.in##.post-navigation.navigation
+niraamjob.in###post-180
+
+! Dec 23, 2025 https://cuttlinks.com
+cuttlinks.com##.steps-to-earn
+cuttlinks.com##.register-banner
+cuttlinks.com##fieldset
+cuttlinks.com###nav-header
+cuttlinks.com##.flex.share-icons-container
+cuttlinks.com##.partners-container
+cuttlinks.com##.main-footer
+cuttlinks.com##.actions
+cuttlinks.com##h3
+
+! Dec 23, 2025 https://niraamjob.in
+niraamjob.in###post-134
+niraamjob.in###post-155
+niraamjob.in###post-172
+niraamjob.in###post-151
+niraamjob.in###post-146
 
 
