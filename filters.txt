@@ -90,19 +90,25 @@ mlwa.xyz##.status-badge-container
 mlwa.xyz##.widget-visible
 mlwa.xyz###dash-cont-39fj2
 
-! Dec 23, 2025 https://niraamjob.in
-niraamjob.in##.ast-article-inner.blog-layout-5.ast-post-format-
-niraamjob.in###secondary
-niraamjob.in###colophon
-niraamjob.in###masthead
-niraamjob.in###post-159
-niraamjob.in##.ast-pagination
-niraamjob.in##.ast-container--.ast-single-related-posts-container
-niraamjob.in###comments
-niraamjob.in##.post-navigation.navigation
-niraamjob.in###post-180
+! https://niraamjob.in | https://tezjobs.in
+niraamjob.in,tezjobs.in##.ast-article-inner.blog-layout-5.ast-post-format-
+niraamjob.in,tezjobs.in###secondary
+niraamjob.in,tezjobs.in###colophon
+niraamjob.in,tezjobs.in###masthead
+niraamjob.in,tezjobs.in###post-159
+niraamjob.in,tezjobs.in##.ast-pagination
+niraamjob.in,tezjobs.in##.ast-container--.ast-single-related-posts-container
+niraamjob.in,tezjobs.in###comments
+niraamjob.in,tezjobs.in##.post-navigation.navigation
+niraamjob.in,tezjobs.in###post-180
+niraamjob.in,tezjobs.in###post-134
+niraamjob.in,tezjobs.in###post-155
+niraamjob.in,tezjobs.in###post-172
+niraamjob.in,tezjobs.in###post-151
+niraamjob.in,tezjobs.in###post-146
+niraamjob.in,tezjobs.in###post-162
 
-! Dec 23, 2025 https://cuttlinks.com
+! https://cuttlinks.com
 cuttlinks.com##.steps-to-earn
 cuttlinks.com##.register-banner
 cuttlinks.com##fieldset
@@ -112,12 +118,5 @@ cuttlinks.com##.partners-container
 cuttlinks.com##.main-footer
 cuttlinks.com##.actions
 cuttlinks.com##h3
-
-! Dec 23, 2025 https://niraamjob.in
-niraamjob.in###post-134
-niraamjob.in###post-155
-niraamjob.in###post-172
-niraamjob.in###post-151
-niraamjob.in###post-146
 
 
