@@ -31,7 +31,7 @@ anikoto.tv##.sidebar
 anikoto.tv##section.top-table
 anikoto.tv###schedule-block
 anikoto.tv##footer
-anikoto.tv##.fixed
+
 
 ! Dec 19, 2025 https://nexdrive.pro
 nexdrive.pro##center
@@ -89,28 +89,20 @@ mlwa.xyz##div.tile:nth-of-type(15)
 mlwa.xyz##.status-badge-container
 mlwa.xyz##.widget-visible
 mlwa.xyz###dash-cont-39fj2
-mlwa.xyz##.H4nkF4-pro-nav-main > div.H4nkF4-pro-nav-item:nth-of-type(1)
-mlwa.xyz##div.H4nkF4-pro-nav-item:nth-of-type(2)
 mlwa.xyz##div.H4nkF4-pro-nav-item:nth-of-type(5)
 mlwa.xyz##div.H4nkF4-pro-nav-item:nth-of-type(6)
 
-! https://niraamjob.in | https://tezjobs.in
-niraamjob.in,tezjobs.in##.ast-article-inner.blog-layout-5.ast-post-format-
-niraamjob.in,tezjobs.in###secondary
-niraamjob.in,tezjobs.in###colophon
-niraamjob.in,tezjobs.in###masthead
-niraamjob.in,tezjobs.in###post-159
-niraamjob.in,tezjobs.in##.ast-pagination
-niraamjob.in,tezjobs.in##.ast-container--.ast-single-related-posts-container
-niraamjob.in,tezjobs.in###comments
-niraamjob.in,tezjobs.in##.post-navigation.navigation
-niraamjob.in,tezjobs.in###post-180
-niraamjob.in,tezjobs.in###post-134
-niraamjob.in,tezjobs.in###post-155
-niraamjob.in,tezjobs.in###post-172
-niraamjob.in,tezjobs.in###post-151
-niraamjob.in,tezjobs.in###post-146
-niraamjob.in,tezjobs.in###post-162
+! Olamovies/Download Ads Site
+niraamjob.in,tezjobs.in,parivahansewa.live,mfulecollegewarud.org##.ast-article-inner.blog-layout-5.ast-post-format-
+niraamjob.in,tezjobs.in,parivahansewa.live,mfulecollegewarud.org###secondary
+niraamjob.in,tezjobs.in,parivahansewa.live,mfulecollegewarud.org###colophon
+niraamjob.in,tezjobs.in,parivahansewa.live,mfulecollegewarud.org###masthead
+niraamjob.in,tezjobs.in,parivahansewa.live,mfulecollegewarud.org##.ast-pagination
+niraamjob.in,tezjobs.in,parivahansewa.live,mfulecollegewarud.org##.ast-container--.ast-single-related-posts-container
+niraamjob.in,tezjobs.in,parivahansewa.live,mfulecollegewarud.org###comments
+niraamjob.in,tezjobs.in,parivahansewa.live,mfulecollegewarud.org##.post-navigation.navigation
+niraamjob.in,tezjobs.in,parivahansewa.live,mfulecollegewarud.org###post-180, #post-134, #post-155, #post-172, #post-151, #post-146, #post-162, #post-166, #post-159, #post-62, #post-30, #post-22, #post-54, #post-46, #post-38, #post-70, #post-50, #post-66, #post-26, #post-42, #post-58, #post-36, #post-65, #post-73, #post-69
+
 
 ! https://cuttlinks.com
 cuttlinks.com##.steps-to-earn
