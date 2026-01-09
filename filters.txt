@@ -2,116 +2,22 @@
 ! Homepage: https://github.com/SUFahad007/ublock-filter/edit/main/filters.txt
 --------------------------------------------------------
 ! olamovies site
-olamovies.onl##div.ny.noticee2.gridlove-box.container
-olamovies.onl###footer
-olamovies.onl###cover
-olamovies.onl###comments
-olamovies.onl##.gridlove-related
-olamovies.onl##.gridlove_posts_widget.gridlove-box.widget
-olamovies.onl##.widget_wpdiscuzwidgets.gridlove-box.widget
-olamovies.onl##.AjaxSearchProLastSearchesWidget.gridlove-box.widget
-olamovies.onl##.gridlove-prev-next-nav
-olamovies.onl##.wpra-regular.wpra-plugin-container.wpra-reactions-wrap
-olamovies.onl##.entry-tags
-olamovies.onl##.w3-padding-right.w3-margin-top.w3-margin-bottom.w3-container
-olamovies.onl##.info-container-div
-olamovies.onl##.action-links
-olamovies.onl##.main-title
-olamovies.onl##.position-left.floating.dracula-toggle-wrap
+olamovies.onl##.ny.noticee2, #footer, .wp-dark-mode-floating-switch, .rivax-mouse-cursor, .gridlove-cover-area, #notice, .wpra-reactions-wrap, .entry-tags, .gridlove-prev-next-nav, .gridlove-related, .gridlove_posts_widget, .main-title, .info-container-div, .action-links
 
 ! olamovies download page
-drive.olamovies.download##.space-y-3.flex-col.flex.z-50.sm\:left-6.left-3.bottom-16.fixed
-drive.olamovies.download##.dark\:border-blue-800.dark\:to-indigo-950.dark\:from-blue-950.mb-4.p-3.rounded-lg.border-blue-200.border.to-indigo-50.from-blue-50.bg-gradient-to-r.relative
-drive.olamovies.download##.z-50.-translate-x-1\/2.left-1\/2.bottom-4.fixed
+drive.olamovies.download##div[class*="fixed"][class*="bottom-16"], div[class*="bg-gradient"][class*="rounded-lg"], div[class*="fixed"][class*="bottom-4"]
 
-! Dec 18, 2025 https://anikoto.tv
-anikoto.tv##.container.hotest
-anikoto.tv##.mb-4.bsharing
-anikoto.tv##.sidebar
-anikoto.tv##section.top-table
-anikoto.tv###schedule-block
-anikoto.tv##footer
-
-
-! Dec 19, 2025 https://nexdrive.pro
-nexdrive.pro##center
-nexdrive.pro##p:nth-of-type(2)
-nexdrive.pro##div.post-hover.post-inner:nth-of-type(7)
-nexdrive.pro##h4.fittexted_for_content_h4:nth-of-type(1)
-nexdrive.pro##div.post-hover.post-inner:nth-of-type(3)
-nexdrive.pro##h4.fittexted_for_content_h4:nth-of-type(2)
-nexdrive.pro##div.divdr:nth-of-type(6)
-nexdrive.pro##div.divdr:nth-of-type(8)
-nexdrive.pro##div.divdr:nth-of-type(9)
-nexdrive.pro##div.divdr:nth-of-type(2)
-nexdrive.pro##div.post-hover.post-inner:nth-of-type(5)
-nexdrive.pro##div.divdr:nth-of-type(4)
-||s.w.org/images/core/emoji/17.0.2/svg/26a1.svg$image
-nexdrive.pro##p:nth-of-type(4)
-nexdrive.pro##i.fa-download.fa
-
+! https://anikoto.tv
+anikototv.to##.container.hotest, .mb-4.bsharing, .sidebar, section.top-table, #schedule-block, footer
 
 ! https://mlwa.xyz
-||i.ibb.co/HLg7TTqJ/header-ico.png$image
-||mlwa.xyz/get-profile-image$image
-mlwa.xyz##.nt-container
-mlwa.xyz##.iziToast-wrapper-topRight.iziToast-wrapper
-mlwa.xyz##.inbox-icon-cont
-mlwa.xyz##.dashboard-btn
-mlwa.xyz###chatIcon
-mlwa.xyz###systemInfoContainer
-mlwa.xyz##.tile-set-3.tile-container
-mlwa.xyz##.tile-set-2.tile-container
-mlwa.xyz##.video-overlay
-mlwa.xyz###mlwaPlansPopup
-mlwa.xyz##.welcome-text
-mlwa.xyz##.currency-box-cont
-mlwa.xyz##.bell-box-container
-mlwa.xyz##.right-half
-mlwa.xyz##.connecting-line
-mlwa.xyz##.left-half
-mlwa.xyz##.footer
-mlwa.xyz###particles-js
-mlwa.xyz##hr.split-line
-mlwa.xyz##.H4nkF4-pro-nav-icon
-mlwa.xyz##div.tile:nth-of-type(3)
-mlwa.xyz##div.tile:nth-of-type(4)
-mlwa.xyz##div.tile:nth-of-type(5)
-mlwa.xyz##div.tile:nth-of-type(6)
-mlwa.xyz##div.tile:nth-of-type(7)
-mlwa.xyz##div.tile:nth-of-type(8)
-mlwa.xyz##div.tile:nth-of-type(9)
-mlwa.xyz##div.tile:nth-of-type(10)
-mlwa.xyz##div.tile:nth-of-type(11)
-mlwa.xyz##div.tile:nth-of-type(12)
-mlwa.xyz##div.tile:nth-of-type(16)
-mlwa.xyz##div.tile:nth-of-type(15)
-mlwa.xyz##.status-badge-container
-mlwa.xyz##.widget-visible
-mlwa.xyz###dash-cont-39fj2
-mlwa.xyz##div.H4nkF4-pro-nav-item:nth-of-type(5)
-mlwa.xyz##div.H4nkF4-pro-nav-item:nth-of-type(6)
+mlwa.xyz##.nt-container, .iziToast-wrapper, .inbox-icon-cont, .dashboard-btn, #chatIcon, #systemInfoContainer, .tile-set-3.tile-container, .tile-set-2.tile-container, .video-overlay, #mlwaPlansPopup, .welcome-text, .currency-box-cont, .bell-box-container, .right-half, .connecting-line, .left-half, .footer, #particles-js, hr.split-line, .H4nkF4-pro-nav-icon, .status-badge-container, .widget-visible, #dash-cont-39fj2, div.tile:nth-of-type(n+3):nth-of-type(-n+12), div.tile:nth-of-type(15), div.tile:nth-of-type(16), div.H4nkF4-pro-nav-item:nth-of-type(5), div.H4nkF4-pro-nav-item:nth-of-type(6), img[src*="header-ico.png"], img[src*="get-profile-image"]
 
-! Olamovies,privatemoviez
-niraamjob.in,tezjobs.in,parivahansewa.live,mfulecollegewarud.org,grammarhindi.in##.ast-article-inner.blog-layout-5.ast-post-format-
-niraamjob.in,tezjobs.in,parivahansewa.live,mfulecollegewarud.org,grammarhindi.in###secondary
-niraamjob.in,tezjobs.in,parivahansewa.live,mfulecollegewarud.org,grammarhindi.in###colophon
-niraamjob.in,tezjobs.in,parivahansewa.live,mfulecollegewarud.org,grammarhindi.in###masthead
-niraamjob.in,tezjobs.in,parivahansewa.live,mfulecollegewarud.org,grammarhindi.in##.ast-pagination
-niraamjob.in,tezjobs.in,parivahansewa.live,mfulecollegewarud.org,grammarhindi.in##.ast-container--.ast-single-related-posts-container
-niraamjob.in,tezjobs.in,parivahansewa.live,mfulecollegewarud.org,grammarhindi.in###comments
-niraamjob.in,tezjobs.in,parivahansewa.live,mfulecollegewarud.org,grammarhindi.in##.post-navigation.navigation
-niraamjob.in,tezjobs.in,parivahansewa.live,mfulecollegewarud.org,grammarhindi.in###post-180, #post-134, #post-155, #post-172, #post-151, #post-146, #post-162, #post-166, #post-159, #post-62, #post-30, #post-22, #post-54, #post-46, #post-38, #post-70, #post-50, #post-66, #post-26, #post-42, #post-58, #post-36, #post-65, #post-73, #post-69, #post-110
+! Ad Site | Olamovies,privatemoviez
+qrixpe.com,niraamjob.in,tezjobs.in,parivahansewa.live,mfulecollegewarud.org,ajazijobs.in##.ast-article-inner.blog-layout-5.ast-post-format-, #secondary, #colophon, #masthead, .ast-pagination, .ast-container--.ast-single-related-posts-container, #comments, .post-navigation.navigation, [id^="post-"]
 
 
 ! https://cuttlinks.com
-cuttlinks.com##.steps-to-earn
-cuttlinks.com##.register-banner
-cuttlinks.com##fieldset
-cuttlinks.com###nav-header
-cuttlinks.com##.flex.share-icons-container
-cuttlinks.com##.partners-container
-cuttlinks.com##.main-footer
-cuttlinks.com##.actions
-cuttlinks.com##h3
+cuttlinks.com##.steps-to-earn, .register-banner, fieldset, #nav-header, .share-icons-container, .partners-container, .main-footer, .actions, h3, [class*="ad-"], [id*="google_ads"]
+
 
