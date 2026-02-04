@@ -14,8 +14,11 @@ anikototv.to##.container.hotest, .mb-4.bsharing, .sidebar, section.top-table, #s
 mlwa.xyz##.nt-container, .iziToast-wrapper, .inbox-icon-cont, .dashboard-btn, #chatIcon, #systemInfoContainer, .tile-set-3.tile-container, .tile-set-2.tile-container, .video-overlay, #mlwaPlansPopup, .welcome-text, .currency-box-cont, .bell-box-container, .right-half, .connecting-line, .left-half, .footer, #particles-js, hr.split-line, .H4nkF4-pro-nav-icon, .status-badge-container, .widget-visible, #dash-cont-39fj2, div.tile:nth-of-type(n+3):nth-of-type(-n+12), div.tile:nth-of-type(15), div.tile:nth-of-type(16), div.H4nkF4-pro-nav-item:nth-of-type(5), div.H4nkF4-pro-nav-item:nth-of-type(6)
 
 ! download Ad Site | Olamovies,privatemoviez
-qrixpe.com,niraamjob.in,tezjobs.in,parivahansewa.live,mfulecollegewarud.org,ajazijobs.in##.ast-article-inner.blog-layout-5.ast-post-format-, #secondary, #colophon, #masthead, .ast-pagination, .ast-container--.ast-single-related-posts-container, #comments, .post-navigation.navigation, [id^="post-"]
+powergam.online,qrixpe.com,niraamjob.in,tezjobs.in,parivahansewa.live,mfulecollegewarud.org,ajazijobs.in##.ast-article-inner.blog-layout-5.ast-post-format-, #secondary, #colophon, #masthead, .ast-pagination, .ast-container--.ast-single-related-posts-container, #comments, .post-navigation.navigation, [id^="post-"]
 
-! https://cuttlinks.com
-cuttlinks.com##.steps-to-earn, .register-banner, fieldset, #nav-header, .share-icons-container, .partners-container, .main-footer, .actions, h3, [class*="ad-"], [id*="google_ads"]
+! Dropbox
+www.dropbox.com##.dig-Tooltip-inner
+
+! TinyURL
+tinyurl.com##.shortener-section__jumbotron, .marketing-section, .application-view__footer, .tu-tab-wrapper__tab-1, .tu-navbar-base__links
 
