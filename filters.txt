@@ -20,5 +20,5 @@ powergam.online,qrixpe.com,niraamjob.in,tezjobs.in,parivahansewa.live,mfulecolle
 www.dropbox.com##.dig-Tooltip-inner
 
 ! TinyURL
-tinyurl.com##.shortener-section__jumbotron, .marketing-section, .application-view__footer, .tu-tab-wrapper__tab-1, .tu-navbar-base__links
+tinyurl.com##.shortener-section__jumbotron, .marketing-section, .application-view__footer, .tu-tab-wrapper__tab-1, .tu-navbar-base__links, #recent-links
 
