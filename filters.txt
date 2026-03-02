@@ -16,9 +16,8 @@ mlwa.xyz##.nt-container, .iziToast-wrapper, .inbox-icon-cont, .dashboard-btn, #c
 ! download Ad Site | Olamovies,privatemoviez
 powergam.online,qrixpe.com,niraamjob.in,tezjobs.in,parivahansewa.live,mfulecollegewarud.org,ajazijobs.in##.ast-article-inner.blog-layout-5.ast-post-format-, #secondary, #colophon, #masthead, .ast-pagination, .ast-container--.ast-single-related-posts-container, #comments, .post-navigation.navigation, [id^="post-"]
 
-! Dropbox
-www.dropbox.com##.dig-Tooltip-inner
-
 ! TinyURL
 tinyurl.com##.shortener-section__jumbotron, .marketing-section, .application-view__footer, .tu-tab-wrapper__tab-1, .tu-navbar-base__links, #recent-links
 
+! ip.me
+ip.me##.cta-container, .three-boxes, .map_container, form, .faq-title, #accordion, .navbar, .pt-5
