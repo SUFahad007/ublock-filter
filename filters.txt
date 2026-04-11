@@ -2,7 +2,7 @@
 ! Homepage: https://github.com/SUFahad007/ublock-filter/edit/main/filters.txt
 --------------------------------------------------------
 ! olamovies site
-olamovies.info##.ny.noticee2, #footer, .wp-dark-mode-floating-switch, .rivax-mouse-cursor, .gridlove-cover-area, #notice, .wpra-reactions-wrap, .entry-tags, .gridlove-prev-next-nav, .gridlove-related, .gridlove_posts_widget, .main-title, .info-container-div, .action-links
+olamovies.mov##.ny.noticee2, #footer, .wp-dark-mode-floating-switch, .rivax-mouse-cursor, .gridlove-cover-area, #notice, .wpra-reactions-wrap, .entry-tags, .gridlove-prev-next-nav, .gridlove-related, .gridlove_posts_widget, .main-title, .info-container-div, .action-links
 
 ! olamovies download page
 drive.olamovies.download##div[class*="fixed"][class*="bottom-16"], div[class*="bg-gradient"][class*="rounded-lg"], div[class*="fixed"][class*="bottom-4"]
