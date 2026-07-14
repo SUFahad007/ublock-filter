@@ -1,23 +1,40 @@
 ! Title: filters
 ! Homepage: https://github.com/SUFahad007/ublock-filter/edit/main/filters.txt
 --------------------------------------------------------
-! olamovies site
-olamovies.mov##.ny.noticee2, #footer, .wp-dark-mode-floating-switch, .rivax-mouse-cursor, .gridlove-cover-area, #notice, .wpra-reactions-wrap, .entry-tags, .gridlove-prev-next-nav, .gridlove-related, .gridlove_posts_widget, .main-title, .info-container-div, .action-links
-
-! olamovies download page
-drive.olamovies.download##div[class*="fixed"][class*="bottom-16"], div[class*="bg-gradient"][class*="rounded-lg"], div[class*="fixed"][class*="bottom-4"]
 
 ! https://anikoto.tv
 anikototv.to##.container.hotest, .mb-4.bsharing, .sidebar, section.top-table, #schedule-block, footer
-
-! https://mlwa.xyz
-mlwa.xyz##.nt-container, .iziToast-wrapper, .inbox-icon-cont, .dashboard-btn, #chatIcon, #systemInfoContainer, .tile-set-3.tile-container, .tile-set-2.tile-container, .video-overlay, #mlwaPlansPopup, .welcome-text, .currency-box-cont, .bell-box-container, .right-half, .connecting-line, .left-half, .footer, #particles-js, hr.split-line, .H4nkF4-pro-nav-icon, .status-badge-container, .widget-visible, #dash-cont-39fj2, div.tile:nth-of-type(n+3):nth-of-type(-n+12), div.tile:nth-of-type(15), div.tile:nth-of-type(16), div.H4nkF4-pro-nav-item:nth-of-type(5), div.H4nkF4-pro-nav-item:nth-of-type(6), div.tile:nth-of-type(17)
-
-! download Ad Site | Olamovies,privatemoviez
-powergam.online,qrixpe.com,niraamjob.in,tezjobs.in,parivahansewa.live,mfulecollegewarud.org,ajazijobs.in##.ast-article-inner.blog-layout-5.ast-post-format-, #secondary, #colophon, #masthead, .ast-pagination, .ast-container--.ast-single-related-posts-container, #comments, .post-navigation.navigation, [id^="post-"]
 
 ! TinyURL
 tinyurl.com##.shortener-section__jumbotron, .marketing-section, .application-view__footer, .tu-tab-wrapper__tab-1, .tu-navbar-base__links, #recent-links
 
 ! ip.me
 ip.me##.cta-container, .three-boxes, .map_container, form, .faq-title, #accordion, .navbar, .pt-5
+
+
+! Apr 19, 2026 https://hubcloud.cx
+hubcloud.cx##.h6.alert-warning.alert
+hubcloud.cx##div.alert-info.alert:nth-of-type(1)
+hubcloud.cx##.alert-primary.alert
+hubcloud.cx##div.alert-info.alert:nth-of-type(3)
+hubcloud.cx##.footer
+hubcloud.cx##.card-body > .alert-warning.alert
+
+! Apr 19, 2026 https://carnewz.site
+carnewz.site##.h6.alert-warning.alert
+carnewz.site##.card-body > .alert-warning.alert
+carnewz.site##.alert-primary.alert
+carnewz.site##.alert-info.alert
+carnewz.site##.footer
+carnewz.site##.tab-content
+
+! May 12, 2026 https://gamerxyt.com
+gamerxyt.com##.h6.alert-warning.alert
+gamerxyt.com##.card-body > .alert-warning.alert
+gamerxyt.com##.alert-primary.alert
+gamerxyt.com##.alert-info.alert
+gamerxyt.com##.footer
+
+! Jun 18, 2026 https://www.dropbox.com
+www.dropbox.com##.dig-154lu0w8_24-3-0.dig-154lu0w6_24-3-0.dig-154lu0wa_24-3-0.dig-154lu0w2_24-3-0.dig-Tooltip-inner
+
