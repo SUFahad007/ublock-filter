@@ -1,5 +1,5 @@
 ! Title: My Custom Main Group
 ! Homepage: https://github.com/SUFahad007/ublock-filter
 
-!#include child-list-1.txt
-!#include child-list-2.txt
+!#include https://github.com/SUFahad007/ublock-filter/raw/refs/heads/main/filters/bigger-filter-list.txt
+!#include https://github.com/SUFahad007/ublock-filter/raw/refs/heads/main/filters/smaller-filter-list%20(recommended).txt
