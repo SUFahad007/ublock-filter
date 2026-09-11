@@ -20,6 +20,18 @@ hubcloud.cx##.footer
 hubcloud.cx##.card-body > .alert-warning.alert
 hubcloud.cx##.header
 hubcloud.cx##.loading > svg
+carnewz.site##.h6.alert-warning.alert
+carnewz.site##.card-body > .alert-warning.alert
+carnewz.site##.alert-primary.alert
+carnewz.site##.alert-info.alert
+carnewz.site##.footer
+carnewz.site##.tab-content
+gamerxyt.com##.h6.alert-warning.alert
+gamerxyt.com##.card-body > .alert-warning.alert
+gamerxyt.com##.alert-primary.alert
+gamerxyt.com##.alert-info.alert
+gamerxyt.com##.footer
+
 
 ! Jun 18, 2026 https://www.dropbox.com
 www.dropbox.com##.dig-154lu0w8_24-3-0.dig-154lu0w6_24-3-0.dig-154lu0wa_24-3-0.dig-154lu0w2_24-3-0.dig-Tooltip-inner
