@@ -23,3 +23,20 @@ hubcloud.cx##.loading > svg
 
 ! Jun 18, 2026 https://www.dropbox.com
 www.dropbox.com##.dig-154lu0w8_24-3-0.dig-154lu0w6_24-3-0.dig-154lu0wa_24-3-0.dig-154lu0w2_24-3-0.dig-Tooltip-inner
+
+! Sep 11, 2026 https://new5.hdhub4u.cl
+new5.hdhub4u.cl###bb-overlay-x7m4q2
+new5.hdhub4u.cl##.primary-header > [src]
+new5.hdhub4u.cl##.sitewide-notice.alert-success.alert
+new5.hdhub4u.cl##.primary-links.list-inline > ul
+new5.hdhub4u.cl###comments
+new5.hdhub4u.cl##.wpra-layout-disqus.wpra-plugin-container.wpra-reactions-wrap
+new5.hdhub4u.cl##.hb8SAc.PZPZlf
+new5.hdhub4u.cl##.page-body > h2
+new5.hdhub4u.cl##.responsive-embed-container
+new5.hdhub4u.cl##p:nth-of-type(4)
+new5.hdhub4u.cl##h3:nth-of-type(1)
+new5.hdhub4u.cl##.code-block-1.code-block
+new5.hdhub4u.cl##p > span > em > strong
+new5.hdhub4u.cl##.primay-footer
+
