@@ -11,30 +11,15 @@ tinyurl.com##.shortener-section__jumbotron, .marketing-section, .application-vie
 ! ip.me
 ip.me##.cta-container, .three-boxes, .map_container, form, .faq-title, #accordion, .navbar, .pt-5
 
-
-! Apr 19, 2026 https://hubcloud.cx
+! 4KHDHub | HDHub4u Ads
 hubcloud.cx##.h6.alert-warning.alert
 hubcloud.cx##div.alert-info.alert:nth-of-type(1)
 hubcloud.cx##.alert-primary.alert
 hubcloud.cx##div.alert-info.alert:nth-of-type(3)
 hubcloud.cx##.footer
 hubcloud.cx##.card-body > .alert-warning.alert
-
-! Apr 19, 2026 https://carnewz.site
-carnewz.site##.h6.alert-warning.alert
-carnewz.site##.card-body > .alert-warning.alert
-carnewz.site##.alert-primary.alert
-carnewz.site##.alert-info.alert
-carnewz.site##.footer
-carnewz.site##.tab-content
-
-! May 12, 2026 https://gamerxyt.com
-gamerxyt.com##.h6.alert-warning.alert
-gamerxyt.com##.card-body > .alert-warning.alert
-gamerxyt.com##.alert-primary.alert
-gamerxyt.com##.alert-info.alert
-gamerxyt.com##.footer
+hubcloud.cx##.header
+hubcloud.cx##.loading > svg
 
 ! Jun 18, 2026 https://www.dropbox.com
 www.dropbox.com##.dig-154lu0w8_24-3-0.dig-154lu0w6_24-3-0.dig-154lu0wa_24-3-0.dig-154lu0w2_24-3-0.dig-Tooltip-inner
-
